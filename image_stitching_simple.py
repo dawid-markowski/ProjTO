@@ -1,3 +1,4 @@
+#Kod z tutoriala
 # import the necessary packages
 from imutils import paths
 import numpy as np
